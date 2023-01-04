@@ -2,8 +2,6 @@
 //  Unit_ConverterApp.swift
 //  Unit Converter
 //
-//  Created by Vasiliy Sabadazh on 04/01/2023.
-//
 
 import SwiftUI
 
